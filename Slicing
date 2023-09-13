@@ -1,0 +1,8 @@
+bin_colors = ['Red', 'Green', 'Blue', 'Yellow']
+print("bin_colors = ", bin_colors, "\n")
+
+print("# Print Index ke-1")
+print(bin_colors[1], "\n")
+
+#Slicing
+print(bin_colors[0:2],  "\n")
