@@ -1,0 +1,4 @@
+# Symmetric Difference Set
+print("# Symmetric Difference Set")
+print(set_A ^ set_B)
+print(set_A.symmetric_difference(set_B), "\n")
