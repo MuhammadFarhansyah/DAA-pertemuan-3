@@ -1,0 +1,4 @@
+# Difference Set
+print("# Difference Set")
+print(set_A - set_B)
+print(set_A.difference(set_B), "\n")
