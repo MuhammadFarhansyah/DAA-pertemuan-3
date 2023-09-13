@@ -1,0 +1,8 @@
+# Latihan
+print("# Latihan")
+yellow = {'dandelions', 'leaves', 'fire hydrant'}
+red = {'fire hydrant', 'blood', 'rose', 'leaves'}
+print("yellow = ", yellow)
+print("red = ", red)
+print(yellow | red)
+print(yellow & red)
