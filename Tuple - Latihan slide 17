@@ -1,0 +1,25 @@
+# Tuple
+bin_colors = ('Red', 'Green', 'Blue', 'Yellow')
+print(bin_colors, "\n")
+
+print(bin_colors[1])
+print(bin_colors[2:], "\n")
+
+# Slide 15
+UPJ = ('Universitas', 'Pembangunan', 'Jaya')
+print(UPJ, "\n")
+
+# Slide 16
+hariAwal = ("Senin", "Selasa", "Rabu")
+hariAkhir = ("Kamis", "Jumat", "Sabtu")
+
+hari = (hariAwal, hariAkhir)
+print(hari, "\n")
+
+# Latihan Slide 17
+pertama = (100)
+kedua = (200, 400, 600)
+ketiga = (300)
+keempat = (400, 800)
+nested_tuple = (pertama, kedua, ketiga, keempat)
+print(nested_tuple)
