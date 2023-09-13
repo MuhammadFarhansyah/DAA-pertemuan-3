@@ -1,0 +1,12 @@
+import numpy as np
+import datetime
+
+today = datetime.date.today ()
+
+listmhs = ["Muhammad Farhansyah", "2022071037", "Informatika", "DAA", "UPJ", str(today)]
+listmhs1 = ["Muhammad Ican", "2022071035", "Informatika", "DAA", "UPJ", str(today)]
+listmhs2 = ["Arip", "2022071030", "Informatika", "DAA", "UPJ", str(today)]
+
+print(listmhs)
+print(listmhs1)
+print(listmhs2)
