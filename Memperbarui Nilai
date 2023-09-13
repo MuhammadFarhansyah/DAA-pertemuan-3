@@ -1,0 +1,3 @@
+# Memperbarui Nilai
+bin_colors['approved_color'] = "Purple"
+print(bin_colors, "\n")
