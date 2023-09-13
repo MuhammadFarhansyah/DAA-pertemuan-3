@@ -1,0 +1,9 @@
+# Latihan Slide 21
+print("# Latihan")
+data_mahasiswa = {
+    "Nama": "Muhammad Farhansyah",
+    "NIM": 2022071037,
+    "Prodi": "Informatika",
+    "Universitas": "UPJ"
+}
+print(data_mahasiswa)
